@@ -26,3 +26,6 @@ FNDR is a powerful and easy-to-use tool designed to help you locate and manage d
 ## Info
 This project was created with java in form of a uni project. I dont take responsibility for accidental File deletion and damages.
 Use at you own risk!
+
+Icons provided by SVGREPO under Attribution license
+https://www.svgrepo.com/page/licensing/#CC%20Attribution
