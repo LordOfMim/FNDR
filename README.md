@@ -12,9 +12,9 @@ User-Friendly Interface: Simple and intuitive interface for easy navigation and 
 Delete Subfolders: Option to delete empty Subfolders
 
 ## Installation
-Download: Get the latest version of FNDR (.msi)
-Install: Run the installer and follow the on-screen instructions.
-Launch: Open FNDR and start finding duplicates immediately.
+Download: Get the latest version of FNDR (.msi)  
+Install: Run the installer and follow the on-screen instructions.  
+Launch: Open FNDR and start finding duplicates immediately.  
 
 ## Usage
 Select Original Directory: Choose the folder or drive you have as an Original.
